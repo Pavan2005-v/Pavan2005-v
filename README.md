@@ -107,12 +107,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pavan2005-v&theme=tokyonight&row=2&column=4"/>
-</p>
-
 ---
 
 # 💯 LeetCode Stats

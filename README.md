@@ -46,13 +46,43 @@
 - 🏅 GFG Institute Rank: **2011**
 
 ## Profiles
+## 🌐 Coding Profiles
 
-- GitHub: https://github.com/Pavan2005-v
-- LeetCode: https://leetcode.com/u/Pavan_333/
-- Codeforces: https://codeforces.com/profile/Pavan_705
-- CodeChef: https://www.codechef.com/users/pavan705
-- GeeksforGeeks: https://www.geeksforgeeks.org/profile/24b11ctvv2
-- HackerRank: https://www.hackerrank.com/profile/vpavan12420051
+<p align="center">
+
+<a href="https://github.com/Pavan2005-v" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<a href="https://leetcode.com/u/Pavan_333/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="55"/>
+</a>
+
+<a href="https://codeforces.com/profile/Pavan_705" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="55"/>
+</a>
+
+<a href="https://www.codechef.com/users/pavan705" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" width="55"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/24b11ctvv2/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="55"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/vpavan12420051" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pavan-ai/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="mailto:pavansatyaprasadvaddiparthi@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+</p>
 
 ---
 

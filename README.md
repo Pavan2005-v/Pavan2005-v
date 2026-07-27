@@ -1,8 +1,7 @@
 # Hi 👋, I'm Pavan Satya Prasad
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Software+Developer;Competitive+Programmer;Full+Stack+Python+Developer;AI+%26+ML+Enthusiast;Always+Learning+Something+New!" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=950&height=70&lines=👋+Welcome+to+My+GitHub+Profile!;I'm+Pavan+Satya+Prasad;💡+Passionate+Software+Developer;🏆+Competitive+Programmer;🌐+Learning+Full+Stack+Python+Development;🤖+Exploring+AI+%26+Machine+Learning;🚀+Building+Projects+That+Make+an+Impact" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pavan2005-v&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>

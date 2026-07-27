@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek Reddy</h1>
+<h1 align="center">Hi 👋, I'm Pavan Satya prasad</h1>
 <h3 align="center">Software Development Enthusiast | AI Explorer | Cloud & Open Source Learner</h3>
 
 <p align="center">
